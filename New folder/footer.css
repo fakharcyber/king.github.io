@@ -1,0 +1,111 @@
+#footer{
+    background-color: rgb(194, 193, 193);
+   margin: 10px;
+}
+.capacity{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 20px;
+   border-radius: 5vb;
+   font-size: 30px;
+   color: rgb(255, 136, 0);
+   opacity: 20px;
+}
+.caps{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+ align-items: center;
+    color: rgb(14, 10, 252);
+    border: 2px solid rgb(185, 192, 248);
+    border-radius: 50%;
+
+}
+.cap{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+ align-items: center;
+    color: rgb(247, 3, 3);
+    border: 2px solid rgb(185, 192, 248);
+    border-radius: 50%;
+}
+
+.ca{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+ align-items: center;
+    color: rgb(255, 254, 254);
+    border: 2px solid rgb(185, 192, 248);
+    border-radius: 50%;
+}
+
+.c{
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+ align-items: center;
+    color: rgb(250, 163, 64);
+    border: 2px solid rgb(185, 192, 248);
+    border-radius: 50%;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#footer ul{
+    margin-top: 0;
+    padding: 0;
+    list-style: none;
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 0.8;
+}
+#footer ul li a{
+    color: rgb(3, 3, 3);
+    text-decoration: none;
+    opacity: 0.8;
+    font-size: 20px;
+}
+#footer ul li {
+    display: inline-block;
+    padding: 0 15px;
+}
+.copyright{
+    color: rgb(0, 0, 0);
+text-align: center;
+font-size: 20px;
+}
+.fa-facebook-f{
+  
+    color: rgb(82, 53, 248);
+}
+.fa-facebook-f:hover {
+    color: rgb(45, 12, 228);
+}
+.fa-square-instagram{
+    color: rgb(247, 126, 126);
+}
+.fa-square-instagram:hover {
+    color: rgb(167, 86, 86);
+}
+.fa-google{
+  color: rgb(253, 253, 175);
+}
+.fa-google:hover {
+    color: yellow;
+}
+.fa-google-play{
+    color: rgb(104, 64, 64);
+}
+.fa-google-play:hover {
+    color: rgb(77, 2, 2);
+}

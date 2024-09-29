@@ -1,0 +1,29 @@
+.text{
+    background-color:rgb(255, 255, 255);
+    margin-top: 20px;
+    
+}
+.text img{
+ width: 500px;
+ height: 250px;
+ box-shadow: 0 0 16px rgb(248, 248, 240);
+ transition: 1s ease;
+}
+.text img:hover {
+    box-shadow: 0 0 16px rgb(0, 0, 0);
+}
+.text p{
+    margin-left: 50px;
+    margin-right: 600px;
+    color: black;
+}
+.text h1{
+    margin-top: -300px;
+    color: blue;
+}
+.k button {
+ width: 500px;
+ height: 250px;
+ margin-left: 700px;
+ margin-top: 50px;
+}

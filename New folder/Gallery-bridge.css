@@ -1,0 +1,15 @@
+#Gallery-bridge video{
+width: 600px;
+height: 400px;
+margin-left: 300px;
+margin-top: 250px;
+
+}
+video{
+    transition: 1s ease;
+    box-shadow: 0 0 16px rgb(250, 248, 248);
+}
+video:hover{
+    box-shadow: 0 0 16px rgb(5, 5, 5);
+
+}
